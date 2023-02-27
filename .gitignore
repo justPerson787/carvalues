@@ -3,6 +3,7 @@
 
 test.sqlite
 db.sqlite
+requests.http
 
 # compiled output
 /dist
